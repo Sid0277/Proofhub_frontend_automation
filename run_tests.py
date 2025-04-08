@@ -28,5 +28,5 @@ def run_selected_tests(test_cases):
 if __name__ == "__main__":
     # Select test cases to run
     # selected_tests = ["test_signup", "test_login"]  # Modify this list as needed
-    selected_tests = ["test_signup"]  # Modify this list as needed
+    selected_tests = ["test_signup", "test_login"]  # Modify this list as needed
     run_selected_tests(selected_tests)
